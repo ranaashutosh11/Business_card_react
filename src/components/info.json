@@ -1,0 +1,44 @@
+[
+     {
+        "ID":0,
+        "Company Name" :"TCS",
+        "Offers" :["Consulting-led Services", "Cognitive-powered Services", "Integrated Portfolio of Business", "Technology Services","Engineering Services"],
+        "Image" : "./images/download.png"
+         
+    },
+    {
+        "ID":1,
+        "Company Name" :"Infosys",
+        "Offers" :[ "Business Consulting","Information technology", "Outsourcing Services"," next-generation digital services and consulting","Logistic Services" ],
+        "Image" :  "C:/Users/ASHUTOSH/test/src/images/download (1).png"
+         
+    },
+    {
+        "ID":2,
+        "Company Name" :"Accenture",
+        "Offers" :["Business strategy", "Technology strategy", "Operations strategy services", "Technology, Business and Management Consulting services"],
+        "Image" :"./images/download(2).png"
+         
+    },
+    {
+        "ID":3,
+        "Company Name":"HCL",
+        "Offers" :["Digital technology solutions", "IoT Solutions", "Cloud Technology", "Automation", "Cybersecurity", "Analytics"],
+        "Image" :"./images/download(1).png"
+         
+    },
+    {
+        "ID":4,
+        "Company Name" :"Capillary",
+        "Offers" :["AI-powered retail CRM", "Enterprise Ecommerce" , "Omnichannel loyalty program software","Cloud-Based Services"],
+        "Image" :"./images/download(4).jpg"
+         
+    },
+    {
+        "ID":5,
+        "Company Name" :"Wipro",
+        "Offers" :["Information technology", "Consulting Services", "Outsourcing Services","Business Process Services","Game Engineering & Development" ],
+        "Image" :"./images/download(5).png"
+         
+    }
+]

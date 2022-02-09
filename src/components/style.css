@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap");
+
+body{
+    background-image: url("matchbg.jpg");
+    opacity: 0.8;
+    background-color: rgb(216, 184, 142);
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    padding-left: 25%;  
+}
+
+.TCS{
+    width: 100%;
+    display: grid;
+    grid-template-columns:1fr 2fr 1fr;
+    grid-template-rows: 5rem 20rem;
+    margin: 20px;
+    margin: 8% auto;
+    background: #fff;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+.TCS>.name{
+    position: relative;
+    font-size: large;
+    text-align: center;
+    color: rgb(51, 16, 54);
+    grid-column: 1/2;
+    background: linear-gradient(to right, #757471, #3b2d3a00);
+}
+
+.TCS>.logo{
+    grid-column: 3/4;
+    text-align: right;
+    justify-content: right;
+}
+.TCS>.services{
+    grid-column: 2/3;
+    grid-row: 2/3;
+    text-align: center;
+}
+h4{
+    text-align: left;
+    font-size: 0.3cm;
+    color: rgb(58, 56, 56);
+}
+
+
+img{
+    height: 80px;
+    width: 100px;
+}
